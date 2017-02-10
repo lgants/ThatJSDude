@@ -11,4 +11,3 @@ function reverseDLL(dll){
       current = tmp;
    }
   return dll;
-}
